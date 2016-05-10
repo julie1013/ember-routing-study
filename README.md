@@ -7,15 +7,14 @@ automatically.
 
 ## Prerequisites
 
--   None.
+-   [ember-study](https://github.com/ga-wdi-boston/ember-study)
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Explain how Ember "stops breaking the web".
 -   Explain which parts of Ember are responsible for loading view-state.
--   Identify some gotchas with URLs when deploying to GitHub pages.
+-   Identify some "gotchas" with URLs when deploying to GitHub Pages.
 
 ## Instructions
 

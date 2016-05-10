@@ -8,24 +8,12 @@ search. We ask you to write responses in your own words in order to see how you
 process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
-## Required Watching
-
--   [CascadiaJS 2013 - Tom Dale - Stop Breaking the Web - YouTube](https://www.youtube.com/watch?v=BQ6at0addi4)
-
 ## Required Readings
 
 -   [Ember.js - Routing: Specifying a Route's Model](https://guides.emberjs.com/v2.4.0/routing/specifying-a-routes-model/)
 -   [danwebb.net - It's About The Hashbangs](http://danwebb.net/2011/5/28/it-is-about-the-hashbangs)
 -   [Ember.js - Configuring Ember.js: Specifying the URL Type](https://guides.emberjs.com/v2.4.0/configuring-ember/specifying-url-type/)
 -   [Deploying Ember CLI apps to GitHub Pages](http://osxi.github.io/ember/github/git/2015/09/22/ember-cli-apps-on-github-pages.html)
-
-## Ember and URLs
-
-In your own words, how Ember "stops breaking the web".
-
-```md
-<!-- your answer here -->
-```
 
 ## Ember Routing
 
