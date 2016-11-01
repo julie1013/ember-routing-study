@@ -21,7 +21,9 @@ How does Ember use the URL to load view-state? Which layers in Ember are
 responsible for which tasks?
 
 ```md
-<!-- your answer here -->
+The paths represent a fixed model and, depending on the situation, a single
+post within that model. It returns the model hook as a model property of the
+controller.
 ```
 
 ## Deploying Ember
@@ -31,5 +33,12 @@ your deployed Ember app? What do you need if you want to use the `history` API
 instead of `hash` for `location`?
 
 ```md
-<!-- your answer here -->
+Hash URL: Uses anchors for loading the default state of the app and keep it
+synchronized as you navigate through the app.
+Example: /#/photos/new takes you to photos.new route.
+
+What to be aware of?: Must be aware of location type when deploying Ember app.
+For deploying to Github, it must be set to hash. If you want to use the history
+API, set location to history.
+
 ```
